@@ -2411,11 +2411,6 @@ var connectors = [
         connectorId: "injected",
     },
     {
-        title: "WalletConnect",
-        icon: Icon$12,
-        connectorId: "walletconnect",
-    },
-    {
         title: "Binance Chain Wallet",
         icon: Icon$13,
         connectorId: "bsc",
